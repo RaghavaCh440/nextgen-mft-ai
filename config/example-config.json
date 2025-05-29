@@ -1,0 +1,8 @@
+{
+  "provider": "gcs",
+  "bucket": "my-sample-bucket",
+  "auth": {
+    "type": "service_account",
+    "credentials": "./auth.json"
+  }
+}

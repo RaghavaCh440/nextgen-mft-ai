@@ -1,0 +1,17 @@
+
+---
+
+## 📄 `package.json`
+```json
+{
+  "name": "nextgen-mft-ai",
+  "version": "0.1.0",
+  "description": "AI-powered Managed File Transfer library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/mft.test.js"
+  },
+  "author": "Raghava Chellu",
+  "license": "MIT",
+  "dependencies": {}
+}
